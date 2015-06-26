@@ -1,0 +1,10 @@
+# Site settings
+title: Benigro
+email: brunosopmac@gmail.com
+description: > # My new legen-wait-for-it-dary personal project.
+url: "http://benigro.me"
+github_username:  benigro
+
+# Build settings
+markdown: kramdown
+permalink: /:title
